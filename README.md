@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋 I'm Shubh<br><br>* 🔭 I’m currently working on: **MERN Stack Projects & DSA**<br>* 👯 I’m looking to collaborate on: **Web Development Projects**<br>* 🤝 I’m looking for help with: **Backend Architecture & System Design**<br>* 🌱 I’m currently learning: **Advanced DSA**<br>* 💬 Ask me about: **Python, JavaScript, React, Node.js**<br>* ⚡ Fun fact: I enjoy debugging more than writing code 😄<br>
+### Hi there 👋 I'm Shubh<br><br>* 🔭 I’m currently working on: **MERN Stack Projects & DSA**<br>* 👯 I’m looking to collaborate on: **Web Development Projects**<br>* 🤝 I’m looking for help with: **Backend Architecture & System Design**<br>* 🌱 I’m currently learning: **Advanced DSA**<br>* 💬 Ask me about: **Python, JavaScript, React, Node.js**<br>* ⚡ Passionate about writing clean and optimized code<br>
 
 
 ## 🌐 Socials:
